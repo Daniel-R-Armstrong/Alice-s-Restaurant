@@ -1,4 +1,4 @@
-#Graph basics
+# Graph basics
 
 Graphs are structures that map relations between objects. The objects are referred to as nodes and the connections between them as edges in this tutorial. Note that edges and nodes are commonly referred to by several names that generally mean exactly the same thing:
 
