@@ -1,4 +1,4 @@
-# Alice-s-Restaurant
+# Alice's Restaurant
 
 ## Welcome to my junkpile!
 
