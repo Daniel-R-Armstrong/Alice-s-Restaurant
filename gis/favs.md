@@ -1,6 +1,6 @@
 GeoPython 2018  
 > [GeoPython 2018](https://github.com/ljwolf/geopython) workshop by Levi Wolf and Serge Rey.  
-> [PySAL: Python Spatial Analysis Library-Spatial Autocorrelation](https://nbviewer.jupyter.org/github/pysal/esda/blob/master/notebooks/Spatial%20Autocorrelation%20for%20Areal%20Unit%20Data.ipynb)
+> [PySAL: Python Spatial Analysis Library-Spatial Autocorrelation](https://nbviewer.jupyter.org/github/pysal/esda/blob/master/notebooks/Spatial%20Autocorrelation%20for%20Areal%20Unit%20Data.ipynb)  
 > https://github.com/ljwolf/geopython/blob/master/sds3-esda.ipynb
 
 Social Data Science 
