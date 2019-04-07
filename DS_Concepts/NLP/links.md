@@ -3,3 +3,9 @@
 - https://github.com/codertimo/BERT-pytorch  
 - http://www.ukenglish.org.uk/readers-and-ebooks/  
 
+## R
+https://www.springboard.com/blog/text-mining-in-r/
+http://juliasilge.com/blog/Joy-to-the-World/
+
+## Lexicons
+http://www.saifmohammad.com/WebPages/lexicons.html
