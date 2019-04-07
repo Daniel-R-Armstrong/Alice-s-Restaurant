@@ -2,7 +2,7 @@
 
 ## CV  
 > ### Laundry detergent multiclass classification
->> [kaggle](https://www.kaggle.com/c/cdiscount-image-classification-challenge/discussion/45863#258683)
+>> [kaggle](https://www.kaggle.com/c/cdiscount-image-classification-challenge/discussion/45863#258683)  
 >> [object-detection-for-complex-image-classification](https://towardsdatascience.com/using-object-detection-for-complex-image-classification-scenarios-part-1-779c87d1eecb)
 > ### Barcode detection  
 > ### brand logo image segmentation  
