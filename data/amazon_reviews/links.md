@@ -1,0 +1,2 @@
+- https://snap.stanford.edu/data/web-Amazon.html  
+- http://jmcauley.ucsd.edu/data/amazon/  
