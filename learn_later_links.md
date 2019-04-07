@@ -31,8 +31,8 @@ https://github.com/IBMDataScience/sample-notebooks/blob/master/Cloud/IPYNB/Analy
 https://github.com/choldgraf/jupyter-book  
 https://geoalchemy-2.readthedocs.io/en/0.6.1/orm_tutorial.html  
 https://geohackweek.github.io/vector/04-geopandas-intro/  
-
-
-
+https://www.kaggle.com/c/two-sigma-financial-news#evaluation
+https://gist.github.com/binga/1bc4ebe5e41f670f5954d2ffa9d6c0ed
+https://github.com/sgugger/Deep-Learning/blob/master/Cyclical%20LR%20and%20momentums.ipynb
 
   
