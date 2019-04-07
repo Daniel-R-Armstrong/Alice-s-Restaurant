@@ -1,0 +1,5 @@
+- https://github.com/jlpalomino/Spatial_Data_Analysis_with_Python/blob/2be025ccc9f1bccd54c5fe6f3457bfc207991a1b/Bonus%20Data/FoliumMaps_SFCrimeData/sf_crime_mapping_final_v36.ipynb  
+- https://github.com/Coleridge-Initiative/ada-2017-high-need/blob/b26e7e82a10b032a2f97c597ad382ca773534aca/notebooks/session_02/Notebook2b_SpatialAnalysis.ipynb  
+- https://github.com/agaidus/leaflet_webmaps_python/blob/master/sf_crime_mapping_final.ipynb  
+- https://alysivji.github.io/getting-started-with-folium.html  
+- https://gist.github.com/dfolch/2440ba28c2ddf5192ad7  
