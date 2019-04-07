@@ -1,4 +1,4 @@
-##Geoff Boeing
+## Geoff Boeing
 > Geoff has some truely amazing work on his [blog](https://geoffboeing.com/publications/), were he talks about urban planning, his 
 [OSMnx library]() which describes the methods for acquiring, constructing, analyzing, and visualizing complex street 
 networks(using networkX and other spatial data from OpenStreetMap)
