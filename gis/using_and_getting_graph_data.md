@@ -12,14 +12,8 @@ networks(using networkX and other spatial data from OpenStreetMap)
 #street stats
 !wget https://dataverse.harvard.edu/api/access/datafile/:persistentId?persistentId=doi:10.7910/DVN/F5UNSK/G0VOOJ
 ```
+## Halfdan Rump 
+> PyCon JP 2017
+>- [video](https://www.youtube.com/watch?v=Yd5oEIBFQ_E&feature=youtu.be)
+>-[notebook](https://github.com/halfdanrump/geoviz/blob/master/pyconjp2017/presentation.ipynb)
 
-```
-# get rail network
-# note this is rail *infrastructure* and thus includes crossovers, sidings, spurs, yards, etc
-# for station-based rail network, you should prob download a station adjacency matrix elsewhere
-G = ox.graph_from_place('New York City, New York',
-                        retain_all=False, truncate_by_edge=True, simplify=True,
-                        network_type='none', infrastructure='way["railway"~"subway"]')
-
-fig, ax = ox.plot_graph(G, fig_height=10, node_size=0)
-```
