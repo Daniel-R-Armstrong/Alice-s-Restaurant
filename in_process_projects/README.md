@@ -1,12 +1,13 @@
 ## Projects Projects everywhere, but not a one complete
 
 ## CV  
-> ### Laundry detergent multiclass classification  
+> ### Laundry detergent multiclass classification
+>> [kaggle](https://www.kaggle.com/c/cdiscount-image-classification-challenge/discussion/45863#258683)
 > ### Barcode detection  
 > ### brand logo image segmentation  
 > ### product aspect identification  
 > ### multi product classification  
-> ### video based instance segmentation & app  
+> ### video based instance segmentation & app 
 
 ## video
 > ### style transfer  
@@ -14,6 +15,7 @@
 
 ## sound
 > ### style transfer on audio data
+> [repo](https://github.com/Sharad24/Neural-Voice-Cloning-with-Few-Samples)
 
 ## NLP  
 > ### Review Data  
