@@ -4,3 +4,4 @@
 networks(using networkX and other spatial data from OpenStreetMap)
 ### Data
 - He also shares some great data sets on [harvards dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CUWWYJ) which contains over 110,000 processed, cleaned street network graphs (which in turn comprise over 55 million nodes and over 137 million edges) at various scales—comprehensively covering the entire U.S.
+- [U.S. Street Network Analytic Measures](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/F5UNSK)
