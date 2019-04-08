@@ -25,3 +25,20 @@ bigger files but faster graphic rendering.
 > GeoJSON – based on JSON
 > TIGER – Topologically Integrated Geographic Encoding and Referencing
 > GBD - GeoDataBase ()
+
+## Graph Data
+
+> ### NetworkX
+> ### Neo4J
+
+## GEO-Data-Bases
+> PostgreSQL -PostGIS
+> Redis - with the Geo API
+> CouchDB - Geocouch
+
+## Concepts
+> ### R-tree:
+> Preferred method for indexing spatial data. Objects (points, lines, polygons) are grouped and added using the minimum
+> bounding rectangle (MBR). They are added in a way that would lead to the smallest increase in size.  
+
+
