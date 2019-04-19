@@ -41,4 +41,5 @@ bigger files but faster graphic rendering.
 > Preferred method for indexing spatial data. Objects (points, lines, polygons) are grouped and added using the minimum
 > bounding rectangle (MBR). They are added in a way that would lead to the smallest increase in size.  
 
-
+## unverified
+Geopandas uses Fiona to read, write, and project spatial data and Shapely to analyze / manipulate it [source](http://andrewgaidus.com/Shapely_Geometries_Topological_Rules/)
