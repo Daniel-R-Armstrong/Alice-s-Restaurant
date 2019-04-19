@@ -43,3 +43,12 @@ bigger files but faster graphic rendering.
 
 ## unverified
 Geopandas uses Fiona to read, write, and project spatial data and Shapely to analyze / manipulate it [source](http://andrewgaidus.com/Shapely_Geometries_Topological_Rules/)
+
+### working with lines
+#### Lines dont meet
+- Snap Noncontiguous Line Features [source](http://andrewgaidus.com/Shapely_Geometries_Topological_Rules/)
+- Identify the distance between the end points of two line segments [source](http://andrewgaidus.com/Shapely_Geometries_Topological_Rules/)
+- snap line segments within end point threshold distance [source](http://andrewgaidus.com/Shapely_Geometries_Topological_Rules/)
+- Make Line Feature end at Polygon Boundaries [source](http://andrewgaidus.com/Shapely_Geometries_Topological_Rules/)
+_ Extending lines [source](http://andrewgaidus.com/Shapely_Geometries_Topological_Rules/)
+- Cliping lines [source](http://andrewgaidus.com/Shapely_Geometries_Topological_Rules/)
