@@ -54,5 +54,7 @@ _ Extending lines [source](http://andrewgaidus.com/Shapely_Geometries_Topologica
 - Cliping lines [source](http://andrewgaidus.com/Shapely_Geometries_Topological_Rules/)
 
 ### Tools/api
-https://www.mapzen.com/products/
+https://www.mapzen.com/products/  
  Map display, Search, Autocomplete, Turn-by-Turn, Isochrone, Map Matching, Optimized Route, Time-distance Matrix, Mobile, Pricing
+ 
+ https://open-elevation.com/
