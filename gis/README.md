@@ -6,6 +6,7 @@ bigger files but faster graphic rendering.
 > ### Raster File Formats:
 > TIFF-
 > JPEG-
+GDAL (Geospatial Data Abstraction Library) is the open source Swiss Army knife of raster formats. It also includes the OGR simple features library for vector formats.
 
 ## Vector Data
 
@@ -58,3 +59,11 @@ https://www.mapzen.com/products/
  Map display, Search, Autocomplete, Turn-by-Turn, Isochrone, Map Matching, Optimized Route, Time-distance Matrix, Mobile, Pricing
  
  https://open-elevation.com/
+ 
+ ### Notebooks
+ [PostGIS_Database](https://github.com/agaidus/PostgreSQL_PostGIS_Databases_Python/blob/master/Build_Query_Spatial_Database.ipynb)
+ 
+ [elevation of drive](https://github.com/agaidus/SF_Muni_Elevation)
+ 
+ 
+ [census block projections](https://github.com/agaidus/Build_Reaggregate_Geography_Demographics)
