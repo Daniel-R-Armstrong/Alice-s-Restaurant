@@ -13,7 +13,7 @@ I don't know if this is going to work but I am going to try to use the EFELS mod
 
 ### EFELS MODIFIED CRISP-DM (DR. Scummer)
 
-Define, research, sutup, clean, understand, munge, model, evaluate, report/refine
+Define, research, setup, clean, understand, munge, model, evaluate, report/refine
 
 - Define - what they want, what you have, what you want, what success looks like.
 - Research - what work has been done on the topic of interest, what other resources/data do you want to have/get/make so that you get 
