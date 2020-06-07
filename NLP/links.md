@@ -10,3 +10,7 @@ http://juliasilge.com/blog/Joy-to-the-World/
 
 ## Lexicons
 http://www.saifmohammad.com/WebPages/lexicons.html
+
+## sentencepiece
+### changing the path of the sentencepiece files
+https://forums.fast.ai/t/changing-the-path-of-the-sentencepiece-in-exported-learner/72308/3
