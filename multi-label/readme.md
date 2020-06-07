@@ -1,0 +1,2 @@
+- https://www.kaggle.com/abhikjha/fastai-hooks-and-image-similarity-search#Fastai-Hooks  
+- https://nbviewer.jupyter.org/github/fastai/course-v3/blob/master/nbs/dl1/lesson3-planet.ipynb
