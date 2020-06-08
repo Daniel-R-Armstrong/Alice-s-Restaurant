@@ -67,3 +67,6 @@ https://www.mapzen.com/products/
  
  
  [census block projections](https://github.com/agaidus/Build_Reaggregate_Geography_Demographics)
+
+ # Blog posts
+- https://medium.com/hackernoon/renters-and-owners-visualizing-every-person-in-the-us-ba97d3c49c02

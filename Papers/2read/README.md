@@ -2,3 +2,5 @@
 > notated in fast.ai lesson 12(update time when course goes live)
 
 [Bag of Tricks for Image Classification with Convolutional Neural Networks](https://arxiv.org/abs/1812.01187)
+
+https://deepai.org/publication/retrieving-similar-e-commerce-images-using-deep-learning
